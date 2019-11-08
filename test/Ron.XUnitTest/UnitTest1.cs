@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Ron_XUnitTest
+namespace Ron.XUnitTest
 {
     public class UnitTest1
     {
